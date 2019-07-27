@@ -1,0 +1,1127 @@
+[
+    [
+        "C:\\workspaces\\demo\\sfdx-demo5-dev01\\force-app",
+        {
+            "state": "n",
+            "sourcePath": "C:\\workspaces\\demo\\sfdx-demo5-dev01\\force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1564202270968,
+            "changeTime": 1564202270968,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\workspaces\\demo\\sfdx-demo5-dev01\\force-app\\main",
+        {
+            "state": "n",
+            "sourcePath": "C:\\workspaces\\demo\\sfdx-demo5-dev01\\force-app\\main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1564202270968,
+            "changeTime": 1564202270968,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\workspaces\\demo\\sfdx-demo5-dev01\\force-app\\main\\default",
+        {
+            "state": "n",
+            "sourcePath": "C:\\workspaces\\demo\\sfdx-demo5-dev01\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1564202271078,
+            "changeTime": 1564202271078,
+            "contentHash": "f3278eea7712ea02093430978f1c668d39e1902e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\workspaces\\demo\\sfdx-demo5-dev01\\force-app\\main\\default\\applications",
+        {
+            "state": "n",
+            "sourcePath": "C:\\workspaces\\demo\\sfdx-demo5-dev01\\force-app\\main\\default\\applications",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1564202270971,
+            "changeTime": 1564202270971,
+            "contentHash": "40803d62e4351e2cac52e3f02596215fc5735c61",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\workspaces\\demo\\sfdx-demo5-dev01\\force-app\\main\\default\\applications\\Dreamhouse.app-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\workspaces\\demo\\sfdx-demo5-dev01\\force-app\\main\\default\\applications\\Dreamhouse.app-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 1299,
+            "modifiedTime": 1564202270971,
+            "changeTime": 1564202270971,
+            "contentHash": "144e09de9e5207da3c4f5e0ce1150b6d07d360c2",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\workspaces\\demo\\sfdx-demo5-dev01\\force-app\\main\\default\\classes",
+        {
+            "state": "n",
+            "sourcePath": "C:\\workspaces\\demo\\sfdx-demo5-dev01\\force-app\\main\\default\\classes",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1564202270979,
+            "changeTime": 1564202270979,
+            "contentHash": "93a9fd0d59c9d405e5e6dac34af5651e251d5eb5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\workspaces\\demo\\sfdx-demo5-dev01\\force-app\\main\\default\\classes\\DreamHouseSampleDataController.cls",
+        {
+            "state": "n",
+            "sourcePath": "C:\\workspaces\\demo\\sfdx-demo5-dev01\\force-app\\main\\default\\classes\\DreamHouseSampleDataController.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 225,
+            "modifiedTime": 1564202270974,
+            "changeTime": 1564202270974,
+            "contentHash": "14db65f56e85d70580a5e2d09177d1be5217cf3f",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\workspaces\\demo\\sfdx-demo5-dev01\\force-app\\main\\default\\classes\\DreamHouseSampleDataController.cls-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\workspaces\\demo\\sfdx-demo5-dev01\\force-app\\main\\default\\classes\\DreamHouseSampleDataController.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 179,
+            "modifiedTime": 1564202270976,
+            "changeTime": 1564202270976,
+            "contentHash": "5dba4d8d1d7ec0e924d941c2ab6e8f8963f526c1",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\workspaces\\demo\\sfdx-demo5-dev01\\force-app\\main\\default\\classes\\DreamHouseSampleDataControllerTest.cls",
+        {
+            "state": "n",
+            "sourcePath": "C:\\workspaces\\demo\\sfdx-demo5-dev01\\force-app\\main\\default\\classes\\DreamHouseSampleDataControllerTest.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 674,
+            "modifiedTime": 1564202270978,
+            "changeTime": 1564202270978,
+            "contentHash": "16f6973b0efe56ccea1a41f16a3955bfbf55dea4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\workspaces\\demo\\sfdx-demo5-dev01\\force-app\\main\\default\\classes\\DreamHouseSampleDataControllerTest.cls-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\workspaces\\demo\\sfdx-demo5-dev01\\force-app\\main\\default\\classes\\DreamHouseSampleDataControllerTest.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 179,
+            "modifiedTime": 1564202270980,
+            "changeTime": 1564202270980,
+            "contentHash": "5dba4d8d1d7ec0e924d941c2ab6e8f8963f526c1",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\workspaces\\demo\\sfdx-demo5-dev01\\force-app\\main\\default\\contentassets",
+        {
+            "state": "n",
+            "sourcePath": "C:\\workspaces\\demo\\sfdx-demo5-dev01\\force-app\\main\\default\\contentassets",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1564202270984,
+            "changeTime": 1564202270984,
+            "contentHash": "a42ad9ab1a440c98cdd899c77ed5b25e97a5ca19",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\workspaces\\demo\\sfdx-demo5-dev01\\force-app\\main\\default\\contentassets\\DreamhouseLogo.asset",
+        {
+            "state": "n",
+            "sourcePath": "C:\\workspaces\\demo\\sfdx-demo5-dev01\\force-app\\main\\default\\contentassets\\DreamhouseLogo.asset",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 27198,
+            "modifiedTime": 1564202270983,
+            "changeTime": 1564202270983,
+            "contentHash": "b5445ec8b44ac56df72d35b1869849e631240cfc",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\workspaces\\demo\\sfdx-demo5-dev01\\force-app\\main\\default\\contentassets\\DreamhouseLogo.asset-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\workspaces\\demo\\sfdx-demo5-dev01\\force-app\\main\\default\\contentassets\\DreamhouseLogo.asset-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 558,
+            "modifiedTime": 1564202270985,
+            "changeTime": 1564202270985,
+            "contentHash": "beab9ba22a947e9022b8ad889a937a06d8539557",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\workspaces\\demo\\sfdx-demo5-dev01\\force-app\\main\\default\\flexipages",
+        {
+            "state": "n",
+            "sourcePath": "C:\\workspaces\\demo\\sfdx-demo5-dev01\\force-app\\main\\default\\flexipages",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1564202270988,
+            "changeTime": 1564202270988,
+            "contentHash": "acc0f4dec1501866f499d4febcd7a93e2add31d7",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\workspaces\\demo\\sfdx-demo5-dev01\\force-app\\main\\default\\flexipages\\Property_Record_Page.flexipage-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\workspaces\\demo\\sfdx-demo5-dev01\\force-app\\main\\default\\flexipages\\Property_Record_Page.flexipage-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 5269,
+            "modifiedTime": 1564202270988,
+            "changeTime": 1564202270988,
+            "contentHash": "a4075d555c3a0713fb2b4228f95bf273ea1a6d47",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\workspaces\\demo\\sfdx-demo5-dev01\\force-app\\main\\default\\layouts",
+        {
+            "state": "n",
+            "sourcePath": "C:\\workspaces\\demo\\sfdx-demo5-dev01\\force-app\\main\\default\\layouts",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1564202270992,
+            "changeTime": 1564202270992,
+            "contentHash": "90b601961e1d62db7127edd64bc6eb78b8102458",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\workspaces\\demo\\sfdx-demo5-dev01\\force-app\\main\\default\\layouts\\Broker__c-Broker Layout.layout-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\workspaces\\demo\\sfdx-demo5-dev01\\force-app\\main\\default\\layouts\\Broker__c-Broker Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 3454,
+            "modifiedTime": 1564202270991,
+            "changeTime": 1564202270991,
+            "contentHash": "10959609d557b52af02daf24631bcbda5792ccf3",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\workspaces\\demo\\sfdx-demo5-dev01\\force-app\\main\\default\\layouts\\Property__c-Property Layout.layout-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\workspaces\\demo\\sfdx-demo5-dev01\\force-app\\main\\default\\layouts\\Property__c-Property Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4510,
+            "modifiedTime": 1564202270993,
+            "changeTime": 1564202270993,
+            "contentHash": "0861d1e3e3c4e1e52790be326e46a617cfea15ce",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\workspaces\\demo\\sfdx-demo5-dev01\\force-app\\main\\default\\objects",
+        {
+            "state": "n",
+            "sourcePath": "C:\\workspaces\\demo\\sfdx-demo5-dev01\\force-app\\main\\default\\objects",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1564202271015,
+            "changeTime": 1564202271015,
+            "contentHash": "b18ab1fe7006b1926c6ec1cb2da75d0e9a5d9de3",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\workspaces\\demo\\sfdx-demo5-dev01\\force-app\\main\\default\\objects\\Broker__c",
+        {
+            "state": "n",
+            "sourcePath": "C:\\workspaces\\demo\\sfdx-demo5-dev01\\force-app\\main\\default\\objects\\Broker__c",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1564202271012,
+            "changeTime": 1564202271012,
+            "contentHash": "1e4d185e9253281dfddfaf9b577325f0187da8b5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\workspaces\\demo\\sfdx-demo5-dev01\\force-app\\main\\default\\objects\\Broker__c\\Broker__c.object-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\workspaces\\demo\\sfdx-demo5-dev01\\force-app\\main\\default\\objects\\Broker__c\\Broker__c.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2143,
+            "modifiedTime": 1564202270996,
+            "changeTime": 1564202270996,
+            "contentHash": "2d037765cdc9dab58b8ae9b9c3c567672a581b31",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\workspaces\\demo\\sfdx-demo5-dev01\\force-app\\main\\default\\objects\\Broker__c\\compactLayouts",
+        {
+            "state": "n",
+            "sourcePath": "C:\\workspaces\\demo\\sfdx-demo5-dev01\\force-app\\main\\default\\objects\\Broker__c\\compactLayouts",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1564202270999,
+            "changeTime": 1564202270999,
+            "contentHash": "682fec58be8259a53837e6e2f67f69ef8a60d190",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\workspaces\\demo\\sfdx-demo5-dev01\\force-app\\main\\default\\objects\\Broker__c\\compactLayouts\\Broker_Compact.compactLayout-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\workspaces\\demo\\sfdx-demo5-dev01\\force-app\\main\\default\\objects\\Broker__c\\compactLayouts\\Broker_Compact.compactLayout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 357,
+            "modifiedTime": 1564202270999,
+            "changeTime": 1564202270999,
+            "contentHash": "8f629ec0adeeb20179bb303eb93c47ac147e53c9",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\workspaces\\demo\\sfdx-demo5-dev01\\force-app\\main\\default\\objects\\Broker__c\\fields",
+        {
+            "state": "n",
+            "sourcePath": "C:\\workspaces\\demo\\sfdx-demo5-dev01\\force-app\\main\\default\\objects\\Broker__c\\fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1564202271011,
+            "changeTime": 1564202271011,
+            "contentHash": "2fb46ad3c33bf653b5eb69e67dbce12b7e2f6a0f",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\workspaces\\demo\\sfdx-demo5-dev01\\force-app\\main\\default\\objects\\Broker__c\\fields\\Email__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\workspaces\\demo\\sfdx-demo5-dev01\\force-app\\main\\default\\objects\\Broker__c\\fields\\Email__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 342,
+            "modifiedTime": 1564202271002,
+            "changeTime": 1564202271002,
+            "contentHash": "ea24c0a4dd7602dabf89e2aae9ac5743ab58b0e3",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\workspaces\\demo\\sfdx-demo5-dev01\\force-app\\main\\default\\objects\\Broker__c\\fields\\Mobile_Phone__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\workspaces\\demo\\sfdx-demo5-dev01\\force-app\\main\\default\\objects\\Broker__c\\fields\\Mobile_Phone__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 328,
+            "modifiedTime": 1564202271003,
+            "changeTime": 1564202271003,
+            "contentHash": "7eca4c5ea2e1a6b7582f8c59b12f98eb61e0c1e6",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\workspaces\\demo\\sfdx-demo5-dev01\\force-app\\main\\default\\objects\\Broker__c\\fields\\Phone__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\workspaces\\demo\\sfdx-demo5-dev01\\force-app\\main\\default\\objects\\Broker__c\\fields\\Phone__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 314,
+            "modifiedTime": 1564202271006,
+            "changeTime": 1564202271006,
+            "contentHash": "4ad85a98e09708a520bcfb1b2c7ce88a01f4ce71",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\workspaces\\demo\\sfdx-demo5-dev01\\force-app\\main\\default\\objects\\Broker__c\\fields\\Picture_IMG__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\workspaces\\demo\\sfdx-demo5-dev01\\force-app\\main\\default\\objects\\Broker__c\\fields\\Picture_IMG__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 487,
+            "modifiedTime": 1564202271008,
+            "changeTime": 1564202271008,
+            "contentHash": "aef04b3b1d4625a5da4e592f617ca483b8b178e3",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\workspaces\\demo\\sfdx-demo5-dev01\\force-app\\main\\default\\objects\\Broker__c\\fields\\Picture__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\workspaces\\demo\\sfdx-demo5-dev01\\force-app\\main\\default\\objects\\Broker__c\\fields\\Picture__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 316,
+            "modifiedTime": 1564202271010,
+            "changeTime": 1564202271010,
+            "contentHash": "c6a68c38cb1d472dd0b827f8c43b919d9b4bdcbd",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\workspaces\\demo\\sfdx-demo5-dev01\\force-app\\main\\default\\objects\\Broker__c\\fields\\Title__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\workspaces\\demo\\sfdx-demo5-dev01\\force-app\\main\\default\\objects\\Broker__c\\fields\\Title__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 366,
+            "modifiedTime": 1564202271011,
+            "changeTime": 1564202271011,
+            "contentHash": "b97651827e0db0c21c6dacd208fc0151372eb51c",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\workspaces\\demo\\sfdx-demo5-dev01\\force-app\\main\\default\\objects\\Broker__c\\listViews",
+        {
+            "state": "n",
+            "sourcePath": "C:\\workspaces\\demo\\sfdx-demo5-dev01\\force-app\\main\\default\\objects\\Broker__c\\listViews",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1564202271014,
+            "changeTime": 1564202271014,
+            "contentHash": "0b3931647b535802350a588b8bf16d4ae6cc2ed6",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\workspaces\\demo\\sfdx-demo5-dev01\\force-app\\main\\default\\objects\\Broker__c\\listViews\\All.listView-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\workspaces\\demo\\sfdx-demo5-dev01\\force-app\\main\\default\\objects\\Broker__c\\listViews\\All.listView-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 239,
+            "modifiedTime": 1564202271014,
+            "changeTime": 1564202271014,
+            "contentHash": "69b4346bcf00c7196c1c27df0d76b98e4520edef",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\workspaces\\demo\\sfdx-demo5-dev01\\force-app\\main\\default\\objects\\Property__c",
+        {
+            "state": "n",
+            "sourcePath": "C:\\workspaces\\demo\\sfdx-demo5-dev01\\force-app\\main\\default\\objects\\Property__c",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1564202271068,
+            "changeTime": 1564202271068,
+            "contentHash": "290b3cf58b90838e68e985055e7d1a0d07ec710e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\workspaces\\demo\\sfdx-demo5-dev01\\force-app\\main\\default\\objects\\Property__c\\compactLayouts",
+        {
+            "state": "n",
+            "sourcePath": "C:\\workspaces\\demo\\sfdx-demo5-dev01\\force-app\\main\\default\\objects\\Property__c\\compactLayouts",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1564202271019,
+            "changeTime": 1564202271019,
+            "contentHash": "6090013c56ec66c627fbb64f1e135c3d4e595eb8",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\workspaces\\demo\\sfdx-demo5-dev01\\force-app\\main\\default\\objects\\Property__c\\compactLayouts\\Property_Compact_Layout.compactLayout-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\workspaces\\demo\\sfdx-demo5-dev01\\force-app\\main\\default\\objects\\Property__c\\compactLayouts\\Property_Compact_Layout.compactLayout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 366,
+            "modifiedTime": 1564202271020,
+            "changeTime": 1564202271020,
+            "contentHash": "4b8a0259a2924150bfd2ccbe117ff5dc80a7b516",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\workspaces\\demo\\sfdx-demo5-dev01\\force-app\\main\\default\\objects\\Property__c\\fields",
+        {
+            "state": "n",
+            "sourcePath": "C:\\workspaces\\demo\\sfdx-demo5-dev01\\force-app\\main\\default\\objects\\Property__c\\fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1564202271066,
+            "changeTime": 1564202271066,
+            "contentHash": "29ceeb8fa30f8ece2d6f465924ff5579d1f80a7c",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\workspaces\\demo\\sfdx-demo5-dev01\\force-app\\main\\default\\objects\\Property__c\\fields\\Address__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\workspaces\\demo\\sfdx-demo5-dev01\\force-app\\main\\default\\objects\\Property__c\\fields\\Address__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 459,
+            "modifiedTime": 1564202271022,
+            "changeTime": 1564202271022,
+            "contentHash": "be50dd913ffda54b2d6ac911352abbfbbb16451f",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\workspaces\\demo\\sfdx-demo5-dev01\\force-app\\main\\default\\objects\\Property__c\\fields\\Assessed_Value__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\workspaces\\demo\\sfdx-demo5-dev01\\force-app\\main\\default\\objects\\Property__c\\fields\\Assessed_Value__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 476,
+            "modifiedTime": 1564202271024,
+            "changeTime": 1564202271024,
+            "contentHash": "2a188dfac8e9ecc11c007c5247fd2cd7f4af7db8",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\workspaces\\demo\\sfdx-demo5-dev01\\force-app\\main\\default\\objects\\Property__c\\fields\\Baths__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\workspaces\\demo\\sfdx-demo5-dev01\\force-app\\main\\default\\objects\\Property__c\\fields\\Baths__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 483,
+            "modifiedTime": 1564202271027,
+            "changeTime": 1564202271027,
+            "contentHash": "71e79c5dbaeab6958bcf5d2095f2fb59fccbcda6",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\workspaces\\demo\\sfdx-demo5-dev01\\force-app\\main\\default\\objects\\Property__c\\fields\\Beds__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\workspaces\\demo\\sfdx-demo5-dev01\\force-app\\main\\default\\objects\\Property__c\\fields\\Beds__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 481,
+            "modifiedTime": 1564202271028,
+            "changeTime": 1564202271028,
+            "contentHash": "a7da624123896fae46570918c87d7a8947258405",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\workspaces\\demo\\sfdx-demo5-dev01\\force-app\\main\\default\\objects\\Property__c\\fields\\Broker__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\workspaces\\demo\\sfdx-demo5-dev01\\force-app\\main\\default\\objects\\Property__c\\fields\\Broker__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 605,
+            "modifiedTime": 1564202271030,
+            "changeTime": 1564202271030,
+            "contentHash": "49946de4b1e0c169d32218d157ddb042ade3afc6",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\workspaces\\demo\\sfdx-demo5-dev01\\force-app\\main\\default\\objects\\Property__c\\fields\\City__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\workspaces\\demo\\sfdx-demo5-dev01\\force-app\\main\\default\\objects\\Property__c\\fields\\City__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 452,
+            "modifiedTime": 1564202271032,
+            "changeTime": 1564202271032,
+            "contentHash": "20911749845157350ddf3bbfa4851e727b32236c",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\workspaces\\demo\\sfdx-demo5-dev01\\force-app\\main\\default\\objects\\Property__c\\fields\\Date_Agreement__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\workspaces\\demo\\sfdx-demo5-dev01\\force-app\\main\\default\\objects\\Property__c\\fields\\Date_Agreement__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 419,
+            "modifiedTime": 1564202271034,
+            "changeTime": 1564202271034,
+            "contentHash": "6404a227633ccb5cc970b957061f1992108953ad",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\workspaces\\demo\\sfdx-demo5-dev01\\force-app\\main\\default\\objects\\Property__c\\fields\\Date_Closed__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\workspaces\\demo\\sfdx-demo5-dev01\\force-app\\main\\default\\objects\\Property__c\\fields\\Date_Closed__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 413,
+            "modifiedTime": 1564202271036,
+            "changeTime": 1564202271036,
+            "contentHash": "feca4699f4f2b9e237845ee54a22b281b84ec756",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\workspaces\\demo\\sfdx-demo5-dev01\\force-app\\main\\default\\objects\\Property__c\\fields\\Date_Contracted__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\workspaces\\demo\\sfdx-demo5-dev01\\force-app\\main\\default\\objects\\Property__c\\fields\\Date_Contracted__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 421,
+            "modifiedTime": 1564202271038,
+            "changeTime": 1564202271038,
+            "contentHash": "10ed9cabeb63aed5217859e78e1fa8385061760f",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\workspaces\\demo\\sfdx-demo5-dev01\\force-app\\main\\default\\objects\\Property__c\\fields\\Date_Listed__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\workspaces\\demo\\sfdx-demo5-dev01\\force-app\\main\\default\\objects\\Property__c\\fields\\Date_Listed__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 460,
+            "modifiedTime": 1564202271039,
+            "changeTime": 1564202271039,
+            "contentHash": "c342474e1f9a9149a9a75c20963e4eeb1f0bfe51",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\workspaces\\demo\\sfdx-demo5-dev01\\force-app\\main\\default\\objects\\Property__c\\fields\\Date_Pre_Market__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\workspaces\\demo\\sfdx-demo5-dev01\\force-app\\main\\default\\objects\\Property__c\\fields\\Date_Pre_Market__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 421,
+            "modifiedTime": 1564202271041,
+            "changeTime": 1564202271041,
+            "contentHash": "db4db386adf914dcaeec726a1ed04fdcc7d5d1de",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\workspaces\\demo\\sfdx-demo5-dev01\\force-app\\main\\default\\objects\\Property__c\\fields\\Days_On_Market__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\workspaces\\demo\\sfdx-demo5-dev01\\force-app\\main\\default\\objects\\Property__c\\fields\\Days_On_Market__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 565,
+            "modifiedTime": 1564202271043,
+            "changeTime": 1564202271043,
+            "contentHash": "1677305363d84ddba0077017e1ac83501b5f51fc",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\workspaces\\demo\\sfdx-demo5-dev01\\force-app\\main\\default\\objects\\Property__c\\fields\\Description__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\workspaces\\demo\\sfdx-demo5-dev01\\force-app\\main\\default\\objects\\Property__c\\fields\\Description__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 451,
+            "modifiedTime": 1564202271045,
+            "changeTime": 1564202271045,
+            "contentHash": "6dc0c2363708251636cde95e724ba010835a4a39",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\workspaces\\demo\\sfdx-demo5-dev01\\force-app\\main\\default\\objects\\Property__c\\fields\\Location__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\workspaces\\demo\\sfdx-demo5-dev01\\force-app\\main\\default\\objects\\Property__c\\fields\\Location__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 496,
+            "modifiedTime": 1564202271046,
+            "changeTime": 1564202271046,
+            "contentHash": "1c67fb335174cda18abfc96c971b4e4fb2ad4bd3",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\workspaces\\demo\\sfdx-demo5-dev01\\force-app\\main\\default\\objects\\Property__c\\fields\\Picture_IMG__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\workspaces\\demo\\sfdx-demo5-dev01\\force-app\\main\\default\\objects\\Property__c\\fields\\Picture_IMG__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 556,
+            "modifiedTime": 1564202271048,
+            "changeTime": 1564202271048,
+            "contentHash": "553d0c39a194704534b3cd2aeb796cc5a7e3fee5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\workspaces\\demo\\sfdx-demo5-dev01\\force-app\\main\\default\\objects\\Property__c\\fields\\Picture__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\workspaces\\demo\\sfdx-demo5-dev01\\force-app\\main\\default\\objects\\Property__c\\fields\\Picture__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 404,
+            "modifiedTime": 1564202271050,
+            "changeTime": 1564202271050,
+            "contentHash": "61cde69b92e494a7c8eefe4a8bea5c4364b3a9e5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\workspaces\\demo\\sfdx-demo5-dev01\\force-app\\main\\default\\objects\\Property__c\\fields\\Price__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\workspaces\\demo\\sfdx-demo5-dev01\\force-app\\main\\default\\objects\\Property__c\\fields\\Price__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 455,
+            "modifiedTime": 1564202271051,
+            "changeTime": 1564202271051,
+            "contentHash": "c2ad21ce94d1eb87a35f83c95a8c953a6a32a795",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\workspaces\\demo\\sfdx-demo5-dev01\\force-app\\main\\default\\objects\\Property__c\\fields\\Record_Link__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\workspaces\\demo\\sfdx-demo5-dev01\\force-app\\main\\default\\objects\\Property__c\\fields\\Record_Link__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 574,
+            "modifiedTime": 1564202271053,
+            "changeTime": 1564202271053,
+            "contentHash": "67ff326bb032ce1b3b02d14cb716584980fa3394",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\workspaces\\demo\\sfdx-demo5-dev01\\force-app\\main\\default\\objects\\Property__c\\fields\\RemoveMe__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\workspaces\\demo\\sfdx-demo5-dev01\\force-app\\main\\default\\objects\\Property__c\\fields\\RemoveMe__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 460,
+            "modifiedTime": 1564202271055,
+            "changeTime": 1564202271055,
+            "contentHash": "94b9542ffcba6f4face1e49975e8ad76a0bc5a52",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\workspaces\\demo\\sfdx-demo5-dev01\\force-app\\main\\default\\objects\\Property__c\\fields\\State__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\workspaces\\demo\\sfdx-demo5-dev01\\force-app\\main\\default\\objects\\Property__c\\fields\\State__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 454,
+            "modifiedTime": 1564202271057,
+            "changeTime": 1564202271057,
+            "contentHash": "7bca49bea03a750b02586b389c7fc064aab2ab37",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\workspaces\\demo\\sfdx-demo5-dev01\\force-app\\main\\default\\objects\\Property__c\\fields\\Status__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\workspaces\\demo\\sfdx-demo5-dev01\\force-app\\main\\default\\objects\\Property__c\\fields\\Status__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 1421,
+            "modifiedTime": 1564202271058,
+            "changeTime": 1564202271058,
+            "contentHash": "8922f178e72452beb545c05ef5a45ff968f1f74c",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\workspaces\\demo\\sfdx-demo5-dev01\\force-app\\main\\default\\objects\\Property__c\\fields\\Tags__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\workspaces\\demo\\sfdx-demo5-dev01\\force-app\\main\\default\\objects\\Property__c\\fields\\Tags__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 453,
+            "modifiedTime": 1564202271060,
+            "changeTime": 1564202271060,
+            "contentHash": "734adebed140f47403e329bfb8e59283a7ad484b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\workspaces\\demo\\sfdx-demo5-dev01\\force-app\\main\\default\\objects\\Property__c\\fields\\Thumbnail_IMG__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\workspaces\\demo\\sfdx-demo5-dev01\\force-app\\main\\default\\objects\\Property__c\\fields\\Thumbnail_IMG__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 576,
+            "modifiedTime": 1564202271062,
+            "changeTime": 1564202271062,
+            "contentHash": "05b4f9efd36d9e3bdc04cf6ab944356d1e5032c4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\workspaces\\demo\\sfdx-demo5-dev01\\force-app\\main\\default\\objects\\Property__c\\fields\\Thumbnail__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\workspaces\\demo\\sfdx-demo5-dev01\\force-app\\main\\default\\objects\\Property__c\\fields\\Thumbnail__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 408,
+            "modifiedTime": 1564202271063,
+            "changeTime": 1564202271063,
+            "contentHash": "538eb7ee0ac8ce0eba4ec9a545364f4a7fbfed94",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\workspaces\\demo\\sfdx-demo5-dev01\\force-app\\main\\default\\objects\\Property__c\\fields\\Title__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\workspaces\\demo\\sfdx-demo5-dev01\\force-app\\main\\default\\objects\\Property__c\\fields\\Title__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 455,
+            "modifiedTime": 1564202271065,
+            "changeTime": 1564202271065,
+            "contentHash": "d405f8a98bcaefbae3ca904dd3b66b515ba406ba",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\workspaces\\demo\\sfdx-demo5-dev01\\force-app\\main\\default\\objects\\Property__c\\fields\\Zip__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\workspaces\\demo\\sfdx-demo5-dev01\\force-app\\main\\default\\objects\\Property__c\\fields\\Zip__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 450,
+            "modifiedTime": 1564202271067,
+            "changeTime": 1564202271067,
+            "contentHash": "b657031a634c270cb99dbc0050eb43716c76f550",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\workspaces\\demo\\sfdx-demo5-dev01\\force-app\\main\\default\\objects\\Property__c\\listViews",
+        {
+            "state": "n",
+            "sourcePath": "C:\\workspaces\\demo\\sfdx-demo5-dev01\\force-app\\main\\default\\objects\\Property__c\\listViews",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1564202271069,
+            "changeTime": 1564202271069,
+            "contentHash": "0b3931647b535802350a588b8bf16d4ae6cc2ed6",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\workspaces\\demo\\sfdx-demo5-dev01\\force-app\\main\\default\\objects\\Property__c\\listViews\\All.listView-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\workspaces\\demo\\sfdx-demo5-dev01\\force-app\\main\\default\\objects\\Property__c\\listViews\\All.listView-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 336,
+            "modifiedTime": 1564202271069,
+            "changeTime": 1564202271069,
+            "contentHash": "789283f00ec38093ec81342c916b66d7ca7eec43",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\workspaces\\demo\\sfdx-demo5-dev01\\force-app\\main\\default\\objects\\Property__c\\Property__c.object-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\workspaces\\demo\\sfdx-demo5-dev01\\force-app\\main\\default\\objects\\Property__c\\Property__c.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 3267,
+            "modifiedTime": 1564202271017,
+            "changeTime": 1564202271017,
+            "contentHash": "37241adec15a0dce7bb530867325ec1759b88684",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\workspaces\\demo\\sfdx-demo5-dev01\\force-app\\main\\default\\pages",
+        {
+            "state": "n",
+            "sourcePath": "C:\\workspaces\\demo\\sfdx-demo5-dev01\\force-app\\main\\default\\pages",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1564202271073,
+            "changeTime": 1564202271073,
+            "contentHash": "a80c01d29abdebaa3ec23ce2af31ac6e0761811a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\workspaces\\demo\\sfdx-demo5-dev01\\force-app\\main\\default\\pages\\DreamHouseSampleData.page",
+        {
+            "state": "n",
+            "sourcePath": "C:\\workspaces\\demo\\sfdx-demo5-dev01\\force-app\\main\\default\\pages\\DreamHouseSampleData.page",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 20529,
+            "modifiedTime": 1564202271072,
+            "changeTime": 1564202271072,
+            "contentHash": "3ab7bd0bb859d7c4c3ada05c284cc9046de99ed9",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\workspaces\\demo\\sfdx-demo5-dev01\\force-app\\main\\default\\pages\\DreamHouseSampleData.page-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\workspaces\\demo\\sfdx-demo5-dev01\\force-app\\main\\default\\pages\\DreamHouseSampleData.page-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 303,
+            "modifiedTime": 1564202271074,
+            "changeTime": 1564202271074,
+            "contentHash": "6156e53512dbe48ba18b79cd07f31b62dc6fa12b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\workspaces\\demo\\sfdx-demo5-dev01\\force-app\\main\\default\\permissionsets",
+        {
+            "state": "n",
+            "sourcePath": "C:\\workspaces\\demo\\sfdx-demo5-dev01\\force-app\\main\\default\\permissionsets",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1564202271077,
+            "changeTime": 1564202271077,
+            "contentHash": "7dbe9e01e595c8fc6b17059b25d1b18351e3d493",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\workspaces\\demo\\sfdx-demo5-dev01\\force-app\\main\\default\\permissionsets\\Dreamhouse.permissionset-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\workspaces\\demo\\sfdx-demo5-dev01\\force-app\\main\\default\\permissionsets\\Dreamhouse.permissionset-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 6737,
+            "modifiedTime": 1564202271077,
+            "changeTime": 1564202271077,
+            "contentHash": "66478a1f14e415e728896d973a662d8b71001a4c",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\workspaces\\demo\\sfdx-demo5-dev01\\force-app\\main\\default\\tabs",
+        {
+            "state": "n",
+            "sourcePath": "C:\\workspaces\\demo\\sfdx-demo5-dev01\\force-app\\main\\default\\tabs",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1564202271082,
+            "changeTime": 1564202271082,
+            "contentHash": "fda2cac10cefed405d678862a07da7434a22fc58",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\workspaces\\demo\\sfdx-demo5-dev01\\force-app\\main\\default\\tabs\\Broker__c.tab-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\workspaces\\demo\\sfdx-demo5-dev01\\force-app\\main\\default\\tabs\\Broker__c.tab-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 232,
+            "modifiedTime": 1564202271079,
+            "changeTime": 1564202271079,
+            "contentHash": "f98a6db2c08a1a4f86b79a6a3ef218d3a914c009",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\workspaces\\demo\\sfdx-demo5-dev01\\force-app\\main\\default\\tabs\\Property__c.tab-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\workspaces\\demo\\sfdx-demo5-dev01\\force-app\\main\\default\\tabs\\Property__c.tab-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 239,
+            "modifiedTime": 1564202271081,
+            "changeTime": 1564202271081,
+            "contentHash": "bc308fe912257675be5321fbf19d8389008fb895",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\workspaces\\demo\\sfdx-demo5-dev01\\force-app\\main\\default\\tabs\\Sample_Data_Import.tab-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\workspaces\\demo\\sfdx-demo5-dev01\\force-app\\main\\default\\tabs\\Sample_Data_Import.tab-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 261,
+            "modifiedTime": 1564202271083,
+            "changeTime": 1564202271083,
+            "contentHash": "a7899d9b4bdee024bb08fbfa5378e0e5ef01d25b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\workspaces\\demo\\sfdx-demo5-dev01",
+        {
+            "state": "n",
+            "sourcePath": "C:\\workspaces\\demo\\sfdx-demo5-dev01",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1564202271084,
+            "changeTime": 1564202306027,
+            "contentHash": "f2d3b53af4fa779868ed0231a74c13f574749b2d",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]
